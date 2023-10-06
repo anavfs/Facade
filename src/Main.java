@@ -6,7 +6,6 @@ public class Main {
         System.out.println("1. Combo Master");
         System.out.println("2. Super Combo");
         System.out.print("Sua escolha: ");
-
         Scanner input = new Scanner(System.in);
 
         int tipo = input.nextInt();
